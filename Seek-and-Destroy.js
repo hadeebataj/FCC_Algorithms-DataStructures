@@ -9,3 +9,33 @@ function destroyer(arr, ...valRem) {
 }
 
 destroyer([1, 2, 3, 1, 2, 3], 2, 3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
